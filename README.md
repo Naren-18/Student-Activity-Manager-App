@@ -10,7 +10,7 @@ It is an Mobile App which is used for scan the Id Cards of students who came lat
 - run `npm start` 
 ### Screenshots
 ![ScreenShots3](./Screenshots/1.jpeg)
-![ScreenShots2](./Screenshots/4.jpeg)
+![ScreenShots2](./Screenshots/4.png)
 ![ScreenShots](./Screenshots/3.jpeg)
 
 ### **Contact **
